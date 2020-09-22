@@ -1,7 +1,7 @@
 # Fashion Blog
 
 
-Fashion Blog is a HTML5 project
+Fashion Blog is a HTML5 project. 
 
 Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!
 
