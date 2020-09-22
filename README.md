@@ -13,10 +13,9 @@ git clone https://github.com/SenayYakut/Fashion-Blog.git
 
 ## Usage
 
-```HTML5
 
+go to the website adress https://senayyakut.github.io/Fashion-Blog/ <!-- Hosted on GitHub Pages -->
 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
