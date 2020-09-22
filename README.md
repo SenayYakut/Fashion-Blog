@@ -8,7 +8,7 @@ Your friend Isa is a budding fashion blogger, and she’s asked you to build her
 ## Installation
 
 ```bash
-
+git clone https://github.com/SenayYakut/Fashion-Blog.git
 ```
 
 ## Usage
